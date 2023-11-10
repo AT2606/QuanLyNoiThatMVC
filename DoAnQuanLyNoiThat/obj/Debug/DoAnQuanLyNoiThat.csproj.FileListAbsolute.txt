@@ -1,0 +1,16 @@
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\bin\Debug\DoAnQuanLyNoiThat.exe.config
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\bin\Debug\DoAnQuanLyNoiThat.exe
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\bin\Debug\DoAnQuanLyNoiThat.pdb
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.MDI.resources
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.Properties.Resources.resources
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.exe
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.pdb
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.View.login.resources
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.View.frmQuanLyTK.resources
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.View.frmQuanLyNhanVien.resources
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.View.frmDonHang.resources
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.View.frmKhachHang.resources
+C:\Users\nguye\source\repos\DoAnQuanLyNoiThat\DoAnQuanLyNoiThat\obj\Debug\DoAnQuanLyNoiThat.View.frmSanPham.resources
